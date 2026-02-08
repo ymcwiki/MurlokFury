@@ -1,0 +1,26 @@
+## Interface: 120000
+## Title: |cff00ff00MurlokFury|r
+## Notes: Display murlok.io Fury Warrior M+ meta data in-game
+## Version: @project-version@
+## Author: WoWAddonTeam
+## SavedVariables: MurlokFuryDB
+## IconTexture: Interface\Icons\ability_warrior_rampage
+
+Data/MurlokData.lua
+Data/Defaults.lua
+Core/Init.lua
+Core/Events.lua
+Core/Log.lua
+Locales/enUS.lua
+Locales/zhCN.lua
+Modules/TalentDisplay.lua
+Modules/GearDisplay.lua
+Modules/StatDisplay.lua
+Modules/EnchantDisplay.lua
+UI/Widgets.lua
+UI/MainFrame.lua
+UI/TalentTab.lua
+UI/GearTab.lua
+UI/StatTab.lua
+UI/EnchantTab.lua
+MurlokFury.lua

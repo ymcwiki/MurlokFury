@@ -1,0 +1,9 @@
+package-as: MurlokFury
+
+ignore:
+  - "*.md"
+  - design
+  - tools
+  - .gitignore
+  - .pkgmeta
+  - .github
