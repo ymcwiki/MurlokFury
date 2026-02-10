@@ -5,6 +5,7 @@
 ## Author: WoWAddonTeam
 ## SavedVariables: MurlokFuryDB
 ## IconTexture: Interface\Icons\ability_warrior_rampage
+## X-Curse-Project-ID: 1457467
 
 Data/MurlokData.lua
 Data/Defaults.lua
